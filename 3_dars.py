@@ -46,7 +46,15 @@ def lists(N):
             lst.pop()
         elif command[0] == "reverse":
             lst.reverse()
-lists(12)            
+lists(12)
+
+
+def toq_juft(n):
+    if n%2==0:
+        print("juft")
+    else:
+        print("toq") 
+print(toq_juft(5))        
     
 
 
