@@ -57,5 +57,10 @@ def toq_juft(n):
 print(toq_juft(5))        
     
 
-
+"""
+gitga faylni update qilish
+git add .
+git commit -m "update"    
+git push -u origin main
+"""
 
